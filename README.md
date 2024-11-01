@@ -1,21 +1,11 @@
+
 <div align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif" alt="MasterHead" />
     <h1>Hi 👋, I'm Hrudhay H</h1>
     <h3>Passionate CS-Major Undergraduate</h3>
     <img alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
     <br><br>
-    <p><img src="https://komarev.com/ghpvc/?username=hrudhay-h&label=Profile%20views&color=0e75b6&style=flat" alt="hrudhay-h" /></p>
-     <p>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=hrudhay-h" alt="hrudhay-h" />
-        </a>
-    </p>
-
-   <p>
-        <a href="https://twitter.com/hrudhay__h" target="blank">
-            <img src="https://img.shields.io/twitter/follow/hrudhay__h?logo=twitter&style=for-the-badge" alt="hrudhay__h" />
-        </a>
-    </p>
+  
 
    <p>🔭 I’m currently working on <strong>VedaMitra and Funded projects</strong></p>
    <p>🌱 I’m currently learning <strong>Machine Learning using Python and DSA</strong></p>
@@ -44,10 +34,26 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
         <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-        <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
+        <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/></a>
     </p>
+<div align="center">
 
-   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrudhay-h&show_icons=true&locale=en&layout=compact" alt="hrudhay-h" /></p>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=hrudhay-h&show_icons=true&locale=en" alt="hrudhay-h" /></p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hrudhay-h" alt="hrudhay-h" /></p>
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Hrudhay-H&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hrudhay-H&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrudhay-H&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hrudhay-H&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Hrudhay-H&icon=5&color=0)](https://visitcount.itsvg.in)
+
 </div>
+
+
