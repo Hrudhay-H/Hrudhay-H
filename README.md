@@ -7,7 +7,7 @@
     <br><br>
   
 
-   <p>🔭 I’m currently working on <strong>VedaMitra and Funded projects</strong></p>
+   <p>🔭 I’m currently working on <strong>CuraVault and Funded projects</strong></p>
    <p>🌱 I’m currently learning <strong>Machine Learning using Python and DSA</strong></p>
    <p>📫 How to reach me: <strong>trustmeiamhrudhay@gmail.com</strong></p>
     
